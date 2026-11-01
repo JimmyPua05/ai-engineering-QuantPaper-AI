@@ -63,7 +63,8 @@ During the experiment, ChatGPT was tested using a straightforward factual questi
 
 **Why this is positive:** A correct and direct answer demonstrates the system's usefulness for straightforward factual questions.
 
-**Evidence:** Add a screenshot of the ChatGPT prompt and response.
+**Evidence:** <img width="1262" height="242" alt="image" src="https://github.com/user-attachments/assets/63cd546a-eed7-401e-89e8-0dc77598dfdf" />
+
 
 **Evaluation:** The ChatGPT response was correct and straightforward.
 
@@ -95,7 +96,8 @@ ChatGPT may lack the capability to perform tasks outside the tools and systems a
 
 While ChatGPT can recommend flights, it may not be able to complete a booking if it cannot access or operate the relevant booking platform. Buying flight tickets can also involve sensitive information, such as personal details and payment credentials.
 
-**Evidence:** Add a screenshot of the actual ChatGPT prompt and response.
+**Evidence:** <img width="953" height="647" alt="image" src="https://github.com/user-attachments/assets/6eeb7d8d-c7fb-498f-8fcd-77520bd58a65" />
+
 
 **Evaluation:** ChatGPT can assist with tasks supported by its available capabilities, but it may be unable to access or operate websites that are not supported. Whether a booking can be completed depends on the tools and permissions available; sensitive information should be handled carefully.
 
