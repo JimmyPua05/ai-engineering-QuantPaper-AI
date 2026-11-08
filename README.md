@@ -46,7 +46,7 @@ Quantitative finance research papers often contain mathematical formulas and tec
   URL: https://doi.org/10.1016/j.jfineco.2011.11.003
 
 - **ResearchCodeBench** — A related research benchmark that may inform evaluation design.  
-  URL: https://proceedings.neurips.cc/paper_files/paper/2025/hash/cd0d0a873cc3e601c76f46dccc3d4c5f-Abstract-Datasets_and_Benchmarks_Track.html
+  URL: https://arxiv.org/abs/2506.02314
 
 
 
