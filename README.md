@@ -17,10 +17,10 @@ Quantitative finance research papers often contain mathematical formulas and tec
 ## Initial Related Work / Existing Approaches
 
 - **Paper2Code (ICLR 2026):** Investigates generating code from research papers. It provides a relevant reference for designing a research-to-code workflow. The specific limitations and differences from QuantPaper AI need to be confirmed by reviewing the paper.  
-  Source: https://proceedings.iclr.cc/paper_files/paper/2026/hash/41b6674c28a9b93ec8d22a53ca25bc3b-Abstract-Conference.html
+  Source: https://arxiv.org/abs/2504.17192
 
 - **ResearchCodeBench (2025):** Provides a benchmark related to code generation from research papers. It can inform the evaluation of generated implementations, although a benchmark alone does not provide the complete application proposed in this project.  
-  Source: https://proceedings.neurips.cc/paper_files/paper/2025/hash/cd0d0a873cc3e601c76f46dccc3d4c5f-Abstract-Datasets_and_Benchmarks_Track.html
+  Source: https://arxiv.org/abs/2506.02314
 
 - **QuantCode-Eval (2026):** Relevant to evaluating code generation for quantitative research. Its evaluation methods and limitations should be examined to identify a specific engineering gap that QuantPaper AI can address.  
   Source: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6801618
