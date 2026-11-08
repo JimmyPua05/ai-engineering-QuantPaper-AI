@@ -9,7 +9,7 @@ Quantitative finance research papers often contain mathematical formulas and tec
 ## Evidence of the Problem
 
 - **ResearchCodeBench (2025):** Research on evaluating code generation from research papers provides a relevant benchmark for investigating how well AI systems translate research into code.  
-  Source: https://proceedings.neurips.cc/paper_files/paper/2025/hash/cd0d0a873cc3e601c76f46dccc3d4c5f-Abstract-Datasets_and_Benchmarks_Track.html
+  Source: https://arxiv.org/abs/2506.02314
 
 - **QuantCode-Eval (2026):** A related evaluation resource for quantitative research code generation that may help inform the project's evaluation methodology. Its findings and scope should be verified against the full paper before making specific claims.  
   Source: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6801618
