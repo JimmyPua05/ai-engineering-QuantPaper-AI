@@ -72,7 +72,7 @@ Undergraduate students, quantitative-finance learners, and beginner researchers 
 **Source 1:** ResearchCodeBench paper and benchmark description — useful as evidence and related work, rather than necessarily as the assistant's main knowledge corpus.  
 URL: https://arxiv.org/abs/2506.02314
 
-**Source 2:** QuantCode-Eval paper and benchmark description — useful as evidence and related work; verify access to any full text or associated data.  
+**Source 2:** QuantCode-Eval paper and benchmark description — useful as evidence and related work.  
 URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6801618
 
 **Source 3:** Moreira and Muir, “Volatility Managed Portfolios,” NBER Working Paper 22208 — a candidate research paper for the assistant's document corpus.  
