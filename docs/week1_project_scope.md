@@ -70,7 +70,7 @@ Undergraduate students, quantitative-finance learners, and beginner researchers 
 ## Data Sources (at least 2)
 
 **Source 1:** ResearchCodeBench paper and benchmark description — useful as evidence and related work, rather than necessarily as the assistant's main knowledge corpus.  
-URL: https://proceedings.neurips.cc/paper_files/paper/2025/hash/cd0d0a873cc3e601c76f46dccc3d4c5f-Abstract-Datasets_and_Benchmarks_Track.html
+URL: https://arxiv.org/abs/2506.02314
 
 **Source 2:** QuantCode-Eval paper and benchmark description — useful as evidence and related work; verify access to any full text or associated data.  
 URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6801618
