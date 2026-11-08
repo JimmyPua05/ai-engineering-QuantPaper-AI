@@ -16,7 +16,7 @@ QuantPaper AI will be a document-grounded assistant that retrieves relevant pass
 **Evidence 1 — Research-to-code implementation is challenging.** ResearchCodeBench evaluates how well language models implement methods described in recent machine-learning research papers. Its findings provide evidence that generating a correct implementation from a paper remains a challenging task.
 
 Source: ResearchCodeBench, NeurIPS 2025.  
-URL: https://proceedings.neurips.cc/paper_files/paper/2025/hash/cd0d0a873cc3e601c76f46dccc3d4c5f-Abstract-Datasets_and_Benchmarks_Track.html
+URL: https://arxiv.org/abs/2506.02314
 
 **Evidence 2 — Quantitative strategy reproduction is challenging.** QuantCode-Eval studies whether generated code can reproduce quantitative trading strategies described in finance papers. It is directly relevant to the proposed problem of translating financial research into code.
 
@@ -29,7 +29,7 @@ URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6801618
 
 ### 1. Paper2Code
 **Source:** Paper2Code, ICLR 2026.  
-URL: https://proceedings.iclr.cc/paper_files/paper/2026/hash/41b6674c28a9b93ec8d22a53ca25bc3b-Abstract-Conference.html
+URL: https://arxiv.org/abs/2504.17192
 
 **Approach:** A framework for transforming machine-learning research papers into code repositories.
 
@@ -37,7 +37,7 @@ URL: https://proceedings.iclr.cc/paper_files/paper/2026/hash/41b6674c28a9b93ec8d
 
 ### 2. ResearchCodeBench
 **Source:** ResearchCodeBench, NeurIPS 2025.  
-URL: https://proceedings.neurips.cc/paper_files/paper/2025/hash/cd0d0a873cc3e601c76f46dccc3d4c5f-Abstract-Datasets_and_Benchmarks_Track.html
+URL: https://arxiv.org/abs/2506.02314
 
 **Approach:** A benchmark for evaluating LLMs' ability to implement methods from recent machine-learning research.
 
