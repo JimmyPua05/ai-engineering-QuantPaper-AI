@@ -15,7 +15,7 @@ Recent work on paper-to-code generation and quantitative code evaluation provide
 2. **ResearchCodeBench (2025):** Provides a benchmark related to generating code from research papers and can inform evaluation design.
 3. **QuantCode-Eval (2026):** Studies quantitative strategy reproduction and provides a domain-relevant reference for evaluating generated quantitative finance code.
 
-*Note: The exact capabilities, limitations, and findings of these works should be verified against their full papers before making stronger comparative claims.*
+
 
 ### Existing Approaches
 
