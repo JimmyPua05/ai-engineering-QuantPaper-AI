@@ -107,8 +107,9 @@ Does combining research-paper retrieval, source-grounded code generation, and au
 |---|---|---|---|---|---|
 | NFR1 | Retrieval Quality | The system shall retrieve relevant research passages for supported questions. | Evaluate a manually labelled set of questions and relevant passages. | Recall@5 | ≥ 80% |
 | NFR2 | Correctness | Generated implementations shall produce outputs consistent with manually verified reference implementations on predefined test cases. | Run generated and reference implementations on identical test inputs. | Test-case pass rate | ≥ 80% |
-| NFR3 | Reliability | The system shall successfully process supported research-paper queries without unexpected application failures. | Run a predefined workload of supported queries. | Successful query rate | ≥ 95% |
+| NFR3 | Reliability | The system shall successfully process supported research-paper queries without unexpected application failures. | Run a predefined workload of supported queries. | Successful query rate | ≥ 90% |
 | NFR4 | Performance | The system shall return responses within an acceptable interactive time. | Measure end-to-end response time across the evaluation workload. | p90 response latency | ≤ 15 seconds |
+| NFR5 | Code Execution Reliability | The system shall generate implementations that execute successfully in the controlled environment for supported code-generation tasks. | Execute generated implementations using a predefined set of tasks. | Successful execution rate | ≥ 90% |
 
 *Thresholds are proposed targets for the initial prototype. They should be reviewed after the evaluation dataset and implementation scope are finalised.*
 
