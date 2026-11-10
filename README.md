@@ -55,10 +55,22 @@ Quantitative finance research papers often contain mathematical formulas and tec
 | Week | Focus | Deliverable | Status |
 |------|-------|-------------|--------|
 | W1 | System map + project scope | README + project scope document | ✅ Completed |
-| W2 | Related work review + data source selection | Literature review + confirmed data sources | ⬜ Not started |
+| W2 | Related work review + data source selection | Literature review + confirmed data sources | ✅ Not started |
 | W3 | Data processing + retrieval design | Document-processing and retrieval prototype | ⬜ Not started |
 | W4 | RAG implementation | Working research retrieval and question-answering prototype | ⬜ Not started |
 | W5 | Python code generation | Initial code-generation prototype | ⬜ Not started |
 | W6 | Automated validation | Test cases and reference implementations | ⬜ Not started |
 | W7 | Evaluation | Experimental results and comparison | ⬜ Not started |
 | W8 | Documentation and refinement | Updated README + final project documentation | ⬜ Not started |
+
+
+## References
+Hua, T., Hua, H., Xiang, V., Klieger, B., Truong, S. T., Liang, W., Sun, F.-Y., & Haber, N. (2025). ResearchCodeBench: Benchmarking LLMs on implementing novel machine learning research code. arXiv. https://doi.org/10.48550/arXiv.2506.02314
+
+Lu, W., Yuan, Z., Wu, H., Jin, D., & Wu, C. (2026). QuantCode-Eval: Benchmarking quantitative strategy code reproduction from finance papers. SSRN. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6801618
+
+Moreira, A., & Muir, T. (2017). Volatility managed portfolios (NBER Working Paper No. 22208). National Bureau of Economic Research. https://doi.org/10.3386/w22208
+
+Moskowitz, T. J., Ooi, Y. H., & Pedersen, L. H. (2012). Time series momentum. Journal of Financial Economics, 104(2), 228–250. https://doi.org/10.1016/j.jfineco.2011.11.003
+
+Seo, M., Baek, J., Lee, S., & Hwang, S. J. (2025). Paper2Code: Automating code generation from scientific papers in machine learning. arXiv. https://doi.org/10.48550/arXiv.2504.17192
