@@ -9,8 +9,9 @@
 | O2 / FR4 / NFR2 | Methodological Correctness | Domain-specific capability | Compare generated implementation outputs with manually verified reference implementations using identical test inputs. | Test-case pass rate | ≥ 80% | Users receive implementations that reproduce the selected method on predefined tests. |
 | O2 / FR4 | Code Generation Reliability | Generation capability | Generate implementations for a predefined set of supported methods and check whether the code can execute in the controlled environment. | Successful execution rate | ≥ 90% | Users receive usable Python implementations rather than code that fails immediately. |
 | O3 / FR5 / RAI2 | Validation Reporting | Instruction-following capability | Check whether the assistant reports passed and failed tests accurately and avoids claiming that execution success proves methodological correctness. | Correct validation-report rate | ≥ 95% | Users can understand what the tests establish and what remains uncertain. |
-| O3 / RAI3 / RAI4 | Responsible Use and Execution Safety | Instruction-following capability | Test out-of-scope financial requests and code-execution safety scenarios. | Appropriate refusal rate; unauthorized access incidents | ≥ 95%; 0 incidents | Reduces misleading financial use and unsafe code execution. |
+| O3 / RAI3 / RAI4 | Responsible Use and Execution Safety | Instruction-following capability | Test out-of-scope financial requests and code-execution safety scenarios. | Appropriate refusal and redirect rate; unauthorized access incidents | ≥ 95%; 0 incidents | Reduces misleading financial use and unsafe code execution. |
 | O1–O3 / NFR4 | Response Latency | Cost and latency | Measure end-to-end response time across a predefined workload. | p90 response latency | ≤ 15 seconds | Users receive sufficiently responsive interactions. |
+| O1–O3 / NFR3 | Query Processing Reliability | Instruction-following capability | Submit a predefined set of supported queries and record whether the system completes processing without unexpected failures. | Successful query rate | ≥ 90% | Users can reliably interact with the application. |
 
 ## Evaluation Dataset
 
