@@ -1,7 +1,5 @@
+
 | Source ID | Filename / URL | Type and purpose | Version / date / owner | Access / rights | Inspection evidence |
-|-----------|---------------|------------------|------------------------|-----------------|--------------------|
-| S01 | ... | ... | ... | ... | ... |
-| S02 | ... | ... | ... | ... | ... |
-| S03 | ... | ... | ... | ... | ... |
-| S04 | ... | ... | ... | ... | ... |
-| S05 | ... | ... | ... | ... | ... |
+|---|---|---|---|---|---|
+| S01 | `engineer Volatility Managed Portfolios.pdf` / https://www.nber.org/papers/w22208 | PDF research paper. Provides the Volatility Managed Portfolios methodology for research retrieval and potential Python implementation. | Moreira and Muir, 2017. NBER Working Paper No. 22208. | Publicly accessible via NBER website for academic use and citation. | To be completed after inspection: record whether the title, abstract, methodology, formulas and relevant text can be extracted. |
+| S02 | `engineer Time series momentum.pdf` / https://doi.org/10.1016/j.jfineco.2011.11.003 | PDF research paper. Provides the Time Series Momentum methodology for research retrieval and potential Python implementation. | Moskowitz, Ooi and Pedersen, 2012. Journal of Financial Economics, 104(2), 228–250. | Accessed through ScienceDirect via UTM library/EZproxy for academic research and citation. | To be completed after inspection: record whether the title, abstract, methodology, formulas and relevant text can be extracted. |
