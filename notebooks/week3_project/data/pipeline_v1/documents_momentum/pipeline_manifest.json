@@ -1,0 +1,41 @@
+{
+  "pipeline_version": "week3-v1",
+  "generated_at_utc": "2026-11-15T16:11:45.750942+00:00",
+  "data_type": "documents_momentum",
+  "configuration": {
+    "chunk_size": 500,
+    "method": "fixed"
+  },
+  "processing_method": "fixed text chunks of 500 characters",
+  "sources": [
+    {
+      "path": "/home/jimmy_linux/anaconda_projects/ai-engineering-QuantPaper-AI/notebooks/week3_project/data/raw/engineer Time series momentum.pdf",
+      "sha256": "a83ede95ff2c86116bf58d919676aed5d6b33c4014137cd6b05aff6467ffaf07"
+    }
+  ],
+  "outputs": [
+    "/home/jimmy_linux/anaconda_projects/ai-engineering-QuantPaper-AI/notebooks/week3_project/data/pipeline_v1/documents_momentum/prepared_text.jsonl"
+  ],
+  "source_output_mapping": [
+    {
+      "source": "/home/jimmy_linux/anaconda_projects/ai-engineering-QuantPaper-AI/notebooks/week3_project/data/raw/engineer Time series momentum.pdf",
+      "output": "/home/jimmy_linux/anaconda_projects/ai-engineering-QuantPaper-AI/notebooks/week3_project/data/pipeline_v1/documents_momentum/prepared_text.jsonl"
+    }
+  ],
+  "inspection": {
+    "source": "engineer Time series momentum.pdf",
+    "characters": 102775,
+    "pages": 23
+  },
+  "validation": {
+    "output_count": 1,
+    "output_sha256": [
+      "ec09b6f960b20920f26c1a21926403c0872211720cbd47e280abf1dc0304905a"
+    ],
+    "output_bytes": [
+      143715
+    ]
+  },
+  "source_version": "Not verified",
+  "access_rights": "Not verified — check before sharing"
+}

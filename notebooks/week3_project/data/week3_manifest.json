@@ -1,0 +1,28 @@
+{
+  "pipeline_version": "week3-v1",
+  "generated_at_utc": "2026-11-15T16:07:45.493958+00:00",
+  "records": [
+    {
+      "source_id": "S01",
+      "source_filename": "engineer Time series momentum.pdf",
+      "source_sha256": "a83ede95ff2c86116bf58d919676aed5d6b33c4014137cd6b05aff6467ffaf07",
+      "prepared_output": "data/processed/engineer Time series momentum_prepared_text.jsonl",
+      "prepared_sha256": "8f3b396035e154d40beb7dead8e93c80f91f14fc3113200f8315eaeb35c1c9dc",
+      "processing_note": "fixed-char-500",
+      "source_version": "Not verified",
+      "access_rights": "Not verified",
+      "status": "Prepared; quality review pending"
+    },
+    {
+      "source_id": "S02",
+      "source_filename": "engineer Volatility Managed Portfolios.pdf",
+      "source_sha256": "be1ea92102e1394e9ddec9545489902f45e5a07b42bd4c42faf8ee372e99fa7a",
+      "prepared_output": "data/processed/engineer Volatility Managed Portfolios_prepared_text.jsonl",
+      "prepared_sha256": "518893812721076ecc432bece4c0b9be89294afd44b2d99ee5c113b77c1b9cb7",
+      "processing_note": "fixed-char-500",
+      "source_version": "Not verified",
+      "access_rights": "Not verified",
+      "status": "Prepared; quality review pending"
+    }
+  ]
+}

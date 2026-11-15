@@ -1,0 +1,41 @@
+{
+  "pipeline_version": "week3-v1",
+  "generated_at_utc": "2026-11-15T16:11:43.382950+00:00",
+  "data_type": "documents_volatility",
+  "configuration": {
+    "chunk_size": 500,
+    "method": "fixed"
+  },
+  "processing_method": "fixed text chunks of 500 characters",
+  "sources": [
+    {
+      "path": "/home/jimmy_linux/anaconda_projects/ai-engineering-QuantPaper-AI/notebooks/week3_project/data/raw/engineer Volatility Managed Portfolios.pdf",
+      "sha256": "be1ea92102e1394e9ddec9545489902f45e5a07b42bd4c42faf8ee372e99fa7a"
+    }
+  ],
+  "outputs": [
+    "/home/jimmy_linux/anaconda_projects/ai-engineering-QuantPaper-AI/notebooks/week3_project/data/pipeline_v1/documents_volatility/prepared_text.jsonl"
+  ],
+  "source_output_mapping": [
+    {
+      "source": "/home/jimmy_linux/anaconda_projects/ai-engineering-QuantPaper-AI/notebooks/week3_project/data/raw/engineer Volatility Managed Portfolios.pdf",
+      "output": "/home/jimmy_linux/anaconda_projects/ai-engineering-QuantPaper-AI/notebooks/week3_project/data/pipeline_v1/documents_volatility/prepared_text.jsonl"
+    }
+  ],
+  "inspection": {
+    "source": "engineer Volatility Managed Portfolios.pdf",
+    "characters": 109624,
+    "pages": 57
+  },
+  "validation": {
+    "output_count": 1,
+    "output_sha256": [
+      "d1bd13e7a57e6fb330e85b7a22eee8bb64423ae483c2338cb90c08a65464924a"
+    ],
+    "output_bytes": [
+      154824
+    ]
+  },
+  "source_version": "Not verified",
+  "access_rights": "Not verified — check before sharing"
+}
